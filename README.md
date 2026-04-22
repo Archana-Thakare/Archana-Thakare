@@ -101,7 +101,7 @@ TensorFlow, Scikit-learn, OpenCV
 
 ---
 
-## 📫 Contact
+## 📫 Let's Connect!
 
 📍 Solna, Stockholm  
 📧 mirearchana@gmail.com    
@@ -112,6 +112,21 @@ TensorFlow, Scikit-learn, OpenCV
 ---
 
 ⭐️ *Open to collaborations, research opportunities, and data science roles where I can drive innovation and real-world impact.*
+
+## 📂 Featured Projects
+
+- 🔹 **Rain-prediction**  
+  https://github.com/Archana-Thakare/Rain-prediction 
+  → Predicts possibility of next day rain using LogisticRegression, classification tree,random forest,bagging, boosting, Adabost classifier,XGboost classifier  
+
+- 🔹 **Salery Prediction**  
+  https://github.com/Archana-Thakare/Salary-prediction  
+  → Predict salary of new wmployee using multiple linear regression, Lasso , ridge regression and various tree based modes(random forest,bagging, boosting  
+
+- 🔹 **IPL Auction Strategy**  
+  https://github.com/Archana-Thakare/SQL-IPL
+  → Developing auction strategy for new IPL franchise by analyzing past IPL data  
+
 
 <!--
 **Archana-Thakare/Archana-Thakare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
