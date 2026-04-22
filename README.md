@@ -1,4 +1,6 @@
-## Hi I am Archana Thakare(Mire) 👋
+## Hi  👋
+I'm Archana Thakare and I am Data Scientist and Data Analyst .
+Also Passionate about passionate about building Artificial Intelligenge and Machine Learning solutions
 
 <!--
 **Archana-Thakare/Archana-Thakare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
