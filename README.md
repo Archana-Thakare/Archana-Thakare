@@ -1,5 +1,5 @@
-## Hi  👋
-I'm Archana Thakare and I am Data Scientist and Data Analyst.
+## Hi, I'm Archana Thakare  👋
+I am Data Scientist and Data Analyst.
 
 Also Passionate about passionate about building Artificial Intelligenge and Machine Learning solutions
 
