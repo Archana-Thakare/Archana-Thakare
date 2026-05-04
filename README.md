@@ -31,7 +31,7 @@ Analyzed relationships between household waste, purchasing behavior, and dietary
 **🔹 Associate Professor – JNEC, India (2022–2023)**  
 Led academic and industry collaboration projects, including partnerships with Sunflag Iron & Steel.
 
-**🔹 Professor & Head – Terna Engineering College (2018–2022)**  
+**🔹 Professor & Head – Terna Engineering College, Mumbai, India (2018–2022)**  
 - Led department growth and AI/ML curriculum development  
 - Delivered technical leadership and mentoring  
 - Key projects:
@@ -39,27 +39,11 @@ Led academic and industry collaboration projects, including partnerships with Su
   - Mango Maturity Assessment using AI  
   - Obstacle Detection using Computer Vision  
 
-**🔹 Research Scholar & Lecturer – SVNIT Surat (2011–2016)**  
+**🔹 Research Scholar & Lecturer – SVNIT Surat, India (2011–2016)**  
 PhD research in image forensics (tampering detection in digital images)
 
 ---
 
-## 🔬 Research & Publications
-
-- 📘 Author of books:
-  - *Advanced Analytics and Deep Learning Models* (Wiley-Scrivener)  
-  - *Advances in Deep Learning for Medical Image Analysis* (Taylor & Francis)
-
-- 📄 Published in SCI & Scopus-indexed journals and conferences  
-- 🧪 Research focus:
-  - Image Forensics  
-  - Computer Vision  
-  - Deep Learning Applications  
-  - Pattern Recognition  
-
-👉 [Google Scholar Profile](https://scholar.google.co.in/citations?user=NkvNs1oAAAAJ&hl=en)
-
----
 
 ## 🛠 Technical Skills
 
