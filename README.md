@@ -9,13 +9,7 @@ Transforming complex data into intelligent solutions through machine learning, d
 
 ## 🧠 About Me
 
-I am a PhD-qualified Computer Engineer with extensive experience across academia, research, and applied data science. My work focuses on building intelligent systems using machine learning and deep learning across domains such as computer vision, image forensics, sustainability, and smart systems.
-
-I bring a unique combination of:
-- 📊 Strong research foundation + real-world problem solving  
-- 🧪 Academic leadership + industry collaboration  
-- 🤝 Cross-disciplinary innovation and project execution  
-
+I am a PhD-qualified Computer Engineer with extensive experience across academia, research, and applied data science. My work focuses on building intelligent systems using machine learning and deep learning across domains such as computer vision, image forensics, sustainability, and smart systems. I bring a strong research foundation combined with real-world problem solving, academic leadership with industry collaboration, and cross-disciplinary innovation backed by successful project execution.
 ---
 
 ## 💼 Professional Experience
