@@ -66,7 +66,7 @@ TensorFlow, Scikit-learn, OpenCV
 
 - 🔹 **Salery Prediction**  
   https://github.com/Archana-Thakare/Salary-prediction
-  → Predict salary of new wmployee using multiple linear regression, Lasso , ridge regression and various tree based modes(random forest,bagging, boosting  
+  → Predict salary of new employee using multiple linear regression, Lasso , ridge regression and various tree based modes(random forest,bagging, boosting  
 
 - 🔹 **IPL Auction Strategy**  
   https://github.com/Archana-Thakare/SQL-IPL
