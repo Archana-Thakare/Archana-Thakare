@@ -56,7 +56,7 @@ TensorFlow, Scikit-learn, OpenCV
 ---
 ## 📂 Featured Projects
 
-- 🔹 **Energy Consumtion Forecasting**    
+- 🔹 **Energy Consumtion Forecasting**
   https://github.com/Archana-Thakare/Energy-Forecasting   
   → Time-series machine learning pipeline that forecasts household energy consumption using Linear Regression, Random Forest Regressor and XGBoost Regressor.  
 
