@@ -56,19 +56,19 @@ TensorFlow, Scikit-learn, OpenCV
 ---
 ## 📂 Featured Projects
 
-- 🔹 **Energy Consumtion Forecasting**  
+🔹 **Energy Consumtion Forecasting**  
   https://github.com/Archana-Thakare/Energy-Forecasting 
   → Time-series machine learning pipeline that forecasts household energy consumption using Linear Regression, Random Forest Regressor and XGBoost Regressor.  
 
-- 🔹 **Rain-prediction**  
+ 🔹 **Rain-prediction**  
   https://github.com/Archana-Thakare/Rain-prediction
   → Predicts possibility of next day rain using LogisticRegression, classification tree,random forest,bagging, boosting, Adabost classifier,XGboost classifier  
 
-- 🔹 **Salery Prediction**  
+ 🔹 **Salery Prediction**  
   https://github.com/Archana-Thakare/Salary-prediction
   → Predict salary of new employee using multiple linear regression, Lasso , ridge regression and various tree based modes(random forest,bagging, boosting  
 
-- 🔹 **IPL Auction Strategy**  
+ 🔹 **IPL Auction Strategy**  
   https://github.com/Archana-Thakare/SQL-IPL
   → Developing auction strategy for new IPL franchise by analyzing past IPL data  
 
