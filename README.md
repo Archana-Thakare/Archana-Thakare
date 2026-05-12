@@ -59,7 +59,11 @@ TensorFlow, Scikit-learn, OpenCV
 🔹 **Energy Consumtion Forecasting**  
   https://github.com/Archana-Thakare/Energy-Forecasting 
   → Time-series machine learning pipeline that forecasts household energy consumption using Linear Regression, Random Forest Regressor and XGBoost Regressor.  
-
+  
+🔹 **Swedish Job Market Analysis**  
+  https://github.com/Archana-Thakare/swedish-job-market-analysis
+  → A data pipeline that collects job listings from the Swedish job market, analyzes skill demand trends, and presents findings through an interactive dashboard. The goal is to answer: which data science tools and skills are Swedish companies hiring for right now?  
+ 
  🔹 **Rain-prediction**  
   https://github.com/Archana-Thakare/Rain-prediction
   → Predicts possibility of next day rain using LogisticRegression, classification tree,random forest,bagging, boosting, Adabost classifier,XGboost classifier  
