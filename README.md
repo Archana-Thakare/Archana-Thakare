@@ -56,6 +56,10 @@ TensorFlow, Scikit-learn, OpenCV
 ---
 ## 📂 Featured Projects
 
+🔹 **Patient Segmentation**  
+  https://github.com/Archana-Thakare/patient-segmentation
+  → A clustering analysis on real healthcare data that groups patients by clinical features and presents the findings in an interactive Streamlit dashboard. The entire project runs inside Docker from day one, including both the Jupyter analysis environment and the Streamlit dashboard. 
+
 🔹 **Energy Consumtion Forecasting**  
   https://github.com/Archana-Thakare/Energy-Forecasting 
   → Time-series machine learning pipeline that forecasts household energy consumption using Linear Regression, Random Forest Regressor and XGBoost Regressor.  
