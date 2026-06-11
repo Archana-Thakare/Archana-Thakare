@@ -42,10 +42,10 @@ PhD research in image forensics (tampering detection in digital images)
 ## 🛠 Technical Skills
 
 **Languages & Tools:**  
-Python, SQL, C, C++, MATLAB  
+Python, SQL, C, PostgreSQL, Duckdb, C++, MATLAB 
 
 **Frameworks & Libraries:**  
-TensorFlow, Scikit-learn, OpenCV  
+TensorFlow, Scikit-learn, OpenCV, DBT,  
 
 **Core Areas:**  
 - Data Science  
